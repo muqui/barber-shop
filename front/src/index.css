@@ -1,0 +1,16 @@
+
+.image-home{
+  margin: 0;
+  padding: 0;
+  background-image: url('/public/fondo.png');
+  height: 100vh;
+}
+
+.titulo {
+ 
+  text-shadow:
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    -2px -2px 0 #fff,
+    2px -2px 0 #fff;
+}
